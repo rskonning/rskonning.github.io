@@ -12,5 +12,14 @@ labels:
   - Laravel
   - MySQL
   - Bootstrap
-summary: A school project to develop a tracker that keeps track of Computer Science students who are currently enrolled or have graduated.  Also keeps track if that student is a part of the Computer Science Club and what meeetings they have attended.
+  - CSS
+summary: A school project to develop a tracker that keeps track of Computer Science students who are currently enrolled or have graduated.  
 ---
+
+
+
+AU Student Tracker is a web application used to keep of current Computer Science students and alumni.  This app is useful as that it can keep track of Computer Science club members and what meetings that have attended.  It also provides contact information of alumni so that they may be contacted and asked if they would like to participate in events on campus.
+
+
+
+This project help develop advanced skills in web development and design.  The app made use of the Laravel and Bootstrap frameworks to easily design a well laid out application with an appealing visual component.  
