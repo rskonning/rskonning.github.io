@@ -43,6 +43,12 @@
       "keywords": [
       ]
     }
+    {
+      "name": "web development",
+      "keywords": [
+        
+      ]
+    }
   ],
   "skills": [
     {
@@ -75,78 +81,51 @@
       "institution": "Aurora University, Aurora, IL",
       "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-08-27",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.7",
       "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Introduction to Computer Programming (Java)",
+        "Calculus",
+        "Data Structures and Algorithms",
+        "Computer Architecture",
+        "Advanced Programming",
+        "Intro to Web Application Development",
+        "Discrete Mathematics",
+        "Advanced Web Development", 
+        "Systems Analysis and Design",
+        "Operating Systems", 
+        "Software Engineering",
+        "Artificial Intelligence",
+        "Database Design and Implement"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      "institution": "Waubonsee Community College, Sugar Grove, IL",
+      "area": "Liberal Arts July 2018",
+      "studyType": "A.A.",
+      "startDate": "2016-08-25",
+      "endDate": "2018-07-31",
+      "gpa": "3.9",
+      "courses": [
+        "Introduction to Computer Programming (Python)", 
+        "Structured Program Design",
+        "C++"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Presidential Tranfer Scholarship",
+      "date": "2018-Present",
+      "awarder": "Aurora University",
+      "summary": "Scholarships awarded to incoming trasfer students who maintained 3.5-4.0 GPA cumulative status at an accredited university/universities."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Constantine and Jamie Kleronomos Endowed Scholarship",
+      "date": "2016-2017",
+      "awarder": "Waubonsee Community College",
+      "summary": "Scholarship awarded to two recipients per year for students who have 3.5 GPA or above."
     }
   ],
   "references": [
