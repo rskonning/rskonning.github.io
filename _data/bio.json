@@ -63,7 +63,9 @@
         "Bootstrap",
         "Laravel",
         "PHP",
-        "SQL"
+        "SQL", 
+        "Nodejs",
+        "Express"
       ]
     },
     {
@@ -80,7 +82,7 @@
   "education": [
     {
       "institution": "Aurora University, Aurora, IL",
-      "area": "Computer Science (expected Spring, 2020)",
+      "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
       "startDate": "2018-08-27",
       "endDate": "Present",
@@ -98,7 +100,10 @@
         "Operating Systems", 
         "Software Engineering",
         "Artificial Intelligence",
-        "Database Design and Implement"
+        "Database Design and Implement",
+        "UNIX/LINUX Admin",
+        "Computer Security",
+        "Software Test, Verify, Validate, & QA"
       ]
     },
     {

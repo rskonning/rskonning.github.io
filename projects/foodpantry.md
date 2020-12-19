@@ -11,7 +11,7 @@ labels:
   - MySQL
   - Data Structures
   - Object-Oriented Programming
-summary: A school project to benefit a food pantry which keeps track of employees and volunteers and their work hours.
+summary: Benefit a food pantry which keeps track of employees and volunteers and their work hours.
 ---
 
 

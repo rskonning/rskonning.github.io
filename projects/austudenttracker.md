@@ -13,7 +13,7 @@ labels:
   - MySQL
   - Bootstrap
   - CSS
-summary: A school project to develop a tracker that keeps track of Computer Science students who are currently enrolled or have graduated.  
+summary: A tracker that keeps track of Computer Science students who are currently enrolled or have graduated.  
 ---
 
 
