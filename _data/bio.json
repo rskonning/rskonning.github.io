@@ -6,11 +6,11 @@
     "email": "rskonning80@gmail.com",
     "phone": "331-240-5577",
     "website": "https://rskonning.github.io",
-    "summary": "I am studying for a B.S. in Computer Science at Aurora University. I expect to graduate in Spring, 2021.",
+    "summary": "B.S. in Computer Science at Aurora University, Recent Graduate",
     "location": {
-      "address": "128 Circle Dr East",
-      "postalCode": "60538",
-      "city": "Montgomery",
+      "address": "",
+      "postalCode": "",
+      "city": "Aurora",
       "countryCode": "USA",
       "region": "Illinois"
     },
@@ -65,7 +65,9 @@
         "PHP",
         "SQL", 
         "Nodejs",
-        "Express"
+        "Express", 
+        "Spring",
+        "Mocha"
       ]
     },
     {
@@ -82,10 +84,10 @@
   "education": [
     {
       "institution": "Aurora University, Aurora, IL",
-      "area": "Computer Science (expected Spring, 2021)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2018-08-27",
-      "endDate": "Present",
+      "endDate": "2021-05-02",
       "gpa": "3.7",
       "courses": [
         "Introduction to Computer Programming (Java)",
@@ -135,7 +137,7 @@
     }, 
     {
       "title": "Dean's List",
-      "date": "Fall 2019-Spring 2020",
+      "date": "Fall 2019-Fall 2020",
       "awarder": "Aurora University",
       "summary": "Awarded to undergraduate students that earned a 3.6 GPA or above"
     },
